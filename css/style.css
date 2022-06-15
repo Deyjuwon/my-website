@@ -1,0 +1,148 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+p {
+    font-family: serif;
+    font-size: large;
+    line-height: 2;
+}
+
+
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 5.62rem;
+    color: #839AA8;
+    margin-top: 50px auto 0 auto;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #839AA8;
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+
+}
+
+.bulb {
+    width: 100%;
+    height: 50%;
+}
+
+hr {
+    border: none;
+    border-top-style: dotted;
+    width: 7%;
+    border-width: 5px;
+    border-color: grey;
+    margin: 100px auto;
+    
+}
+.bottom-cloud {
+    position: absolute;
+    right: 1000px;
+}
+
+.top-container {
+    background-color: #FCF8E8;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 300px;
+    top: 50px;
+}
+
+.my-image {
+    border-radius: 100%;
+    width: 10%;
+    margin-top: 30px;
+}
+
+
+.analysis-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.profile {
+    line-height: 1.5;
+}
+
+.backend-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+a {
+    color:  #11999E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.contact-me {
+    line-height: 2;
+    margin-bottom: 30px;
+
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.btn {
+    background-color: #66BFBF;
+    padding: 15px;
+    color: white;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 100px;
+    padding: 40px;
+    
+}
+
+.contact-message {
+    width: 35%;
+    margin: 40px auto 60px;
+}
+
+.copy-message {
+    font-size: 0.75rem;
+    margin-bottom: 0;
+}
+
+.footer-link {
+    margin: auto 10px auto 10px;
+    text-decoration: none;
+}
